@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Anderson",
+        "idade": 21,
+        "esta_trabalhando": true,
+        "hobbies": [1, "Valorant", true, "Programação"],
+        "detalhes_profissao": {
+            "profissao": "Programador",
+            "empresa": "SIAC"
+        }
+    },
+    {
+        "nome": "Junior",
+        "idade": 21,
+        "esta_trabalhando": true,
+        "hobbies": [1, "Valorant", true, "Programação"],
+        "detalhes_profissao": {
+            "profissao": "Programador",
+            "empresa": "SIAC"
+        }
+    }    
+]
